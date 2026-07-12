@@ -20,43 +20,35 @@ Respond with valid JSON only:
 
 If there are no duplicates at all, return: {{"duplicates": []}}"""
 
-CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important technical and academic information.
+CONTENT_ANALYSIS_SYSTEM = """You are an expert marketing & advertising intelligence curator for the founder of a Hong Kong advertising agency. You filter daily news for what a media/marketing agency leader must know.
 
-Score content on a 0-10 scale based on importance and relevance:
+Score content on a 0-10 scale for relevance to marketing, advertising, adtech, media, and brand strategy:
 
-**9-10: Groundbreaking** - Major breakthroughs, paradigm shifts, or highly significant announcements
-- New major version releases of widely-used technologies
-- Significant research breakthroughs
-- Important industry-changing announcements
+**9-10: Groundbreaking** - Industry-shifting for advertising/marketing
+- Major platform changes (Meta/Google/TikTok/Amazon ads, privacy/cookie/attribution, ad policy)
+- New measurement/MMM/attribution paradigms, big martech launches or acquisitions
+- Regulation reshaping advertising (privacy law, data, AI-in-ads rules)
 
 **7-8: High Value** - Important developments worth immediate attention
-- Interesting technical deep-dives
-- Novel approaches to known problems
-- Insightful analysis or commentary
-- Valuable tools or libraries
+- Adtech/martech product launches, platform feature updates that change how ads run
+- Strong analysis of ad performance, media strategy, creative/AI-in-marketing trends
+- Notable brand campaigns, consumer-behaviour or media-consumption shifts
 
 **5-6: Interesting** - Worth knowing but not urgent
-- Incremental improvements
-- Useful tutorials
-- Moderate community interest
+- Incremental platform tweaks, useful how-to/tutorials, moderate-interest case studies
 
 **3-4: Low Priority** - Generic or routine content
-- Minor updates
-- Common knowledge
-- Overly promotional content
+- Minor updates, common knowledge, thin listicles, overly promotional vendor PR
 
 **0-2: Noise** - Not relevant or low quality
-- Spam or purely promotional
-- Off-topic content
-- Trivial updates
+- Spam, pure promotion, off-topic (deep infra/hardware/coding with no marketing angle), trivia
 
 Consider:
-- Technical depth and novelty
-- Potential impact on the field
-- Quality of writing/presentation
-- Relevance to software engineering, AI/ML, and systems research
-- Community discussion quality: insightful comments, diverse viewpoints, and debates increase value
-- Engagement signals: high upvotes/favorites with substantive discussion indicate community-validated importance
+- Impact on how brands buy, run, measure, or optimise advertising & media
+- Relevance to Meta/Google/TikTok/programmatic/search/social/CTV, adtech, martech, MMM, analytics
+- AI ONLY insofar as it affects marketing, advertising, creative, or measurement (not pure ML research)
+- Signal quality: substantive analysis over hot takes; insightful discussion increases value
+- Engagement signals: high upvotes/favorites with substantive discussion indicate validated importance
 """
 
 CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON response with:
