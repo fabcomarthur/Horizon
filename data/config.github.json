@@ -2,32 +2,26 @@
   "version": "1.0",
   "ai": {
     "provider": "gemini",
-    "model": "gemini-2.0-flash",
+    "model": "gemini-2.5-flash",
     "api_key_env": "GOOGLE_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
-    "throttle_sec": 1,
+    "throttle_sec": 4,
     "languages": [
       "zh",
       "en"
     ],
-    "analysis_concurrency": 4,
-    "enrichment_concurrency": 4
+    "analysis_concurrency": 1,
+    "enrichment_concurrency": 1
   },
   "sources": {
     "github": [],
     "hackernews": {
       "enabled": true,
       "fetch_top_stories": 30,
-      "min_score": 250
+      "min_score": 150
     },
     "rss": [
-      {
-        "name": "AdExchanger",
-        "url": "https://www.adexchanger.com/feed/",
-        "enabled": true,
-        "category": "adtech"
-      },
       {
         "name": "Digiday",
         "url": "https://digiday.com/feed/",
@@ -72,41 +66,8 @@
       }
     ],
     "reddit": {
-      "enabled": true,
-      "subreddits": [
-        {
-          "subreddit": "marketing",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 30
-        },
-        {
-          "subreddit": "PPC",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 20
-        },
-        {
-          "subreddit": "adops",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 15
-        },
-        {
-          "subreddit": "digital_marketing",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 25
-        }
-      ],
+      "enabled": false,
+      "subreddits": [],
       "users": [],
       "fetch_comments": 8
     },
@@ -116,7 +77,7 @@
     }
   },
   "filtering": {
-    "ai_score_threshold": 7.0,
+    "ai_score_threshold": 6.0,
     "time_window_hours": 24,
     "max_items": 25,
     "category_groups": {
