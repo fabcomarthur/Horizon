@@ -6,13 +6,13 @@
     "api_key_env": "GOOGLE_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
-    "throttle_sec": 3,
+    "throttle_sec": 7,
     "languages": [
       "zh",
       "en"
     ],
-    "analysis_concurrency": 2,
-    "enrichment_concurrency": 2
+    "analysis_concurrency": 1,
+    "enrichment_concurrency": 1
   },
   "sources": {
     "github": [],
@@ -41,6 +41,12 @@
         "category": "ad-platform"
       },
       {
+        "name": "Google News — AI for Marketing",
+        "url": "https://news.google.com/rss/search?q=%22GPT-5%22+OR+%22Gemini+3%22+OR+%22Claude+Opus%22+OR+%22new+AI+model%22+OR+%22AI+advertising%22+OR+%22generative+AI+marketing%22&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "ai-model"
+      },
+      {
         "name": "Google — Ads & Commerce blog",
         "url": "https://blog.google/products/ads-commerce/rss/",
         "enabled": true,
@@ -49,12 +55,6 @@
       {
         "name": "ExchangeWire",
         "url": "https://www.exchangewire.com/feed/",
-        "enabled": true,
-        "category": "programmatic"
-      },
-      {
-        "name": "AdMonsters",
-        "url": "https://www.admonsters.com/feed/",
         "enabled": true,
         "category": "programmatic"
       },
@@ -116,8 +116,12 @@
         "categories": ["ad-platform", "programmatic", "search-ppc"]
       },
       "industry": {
-        "limit": 8,
+        "limit": 7,
         "categories": ["marketing", "social"]
+      },
+      "ai": {
+        "limit": 4,
+        "categories": ["ai-model"]
       }
     }
   },
