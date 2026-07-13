@@ -6,27 +6,81 @@
     "api_key_env": "GOOGLE_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
-    "throttle_sec": 4,
+    "throttle_sec": 3,
     "languages": [
       "zh",
       "en"
     ],
-    "analysis_concurrency": 1,
-    "enrichment_concurrency": 1
+    "analysis_concurrency": 2,
+    "enrichment_concurrency": 2
   },
   "sources": {
     "github": [],
     "hackernews": {
-      "enabled": true,
+      "enabled": false,
       "fetch_top_stories": 30,
-      "min_score": 150
+      "min_score": 300
     },
     "rss": [
+      {
+        "name": "Google News — Ad Platforms",
+        "url": "https://news.google.com/rss/search?q=%22Google+Ads%22+OR+%22Meta+advertising%22+OR+%22TikTok+for+Business%22+OR+%22YouTube+ads%22+OR+%22Microsoft+Advertising%22&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "ad-platform"
+      },
+      {
+        "name": "Google News — Programmatic",
+        "url": "https://news.google.com/rss/search?q=%22The+Trade+Desk%22+OR+DV360+OR+%22Display+%26+Video+360%22+OR+%22programmatic+advertising%22+OR+%22retail+media%22&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "programmatic"
+      },
+      {
+        "name": "Google News — Native & CTV",
+        "url": "https://news.google.com/rss/search?q=Taboola+OR+Outbrain+OR+%22Amazon+Ads%22+OR+%22connected+TV+advertising%22+OR+%22ad+measurement%22&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "ad-platform"
+      },
+      {
+        "name": "Google — Ads & Commerce blog",
+        "url": "https://blog.google/products/ads-commerce/rss/",
+        "enabled": true,
+        "category": "ad-platform"
+      },
+      {
+        "name": "ExchangeWire",
+        "url": "https://www.exchangewire.com/feed/",
+        "enabled": true,
+        "category": "programmatic"
+      },
+      {
+        "name": "AdMonsters",
+        "url": "https://www.admonsters.com/feed/",
+        "enabled": true,
+        "category": "programmatic"
+      },
+      {
+        "name": "Search Engine Journal",
+        "url": "https://www.searchenginejournal.com/feed/",
+        "enabled": true,
+        "category": "search-ppc"
+      },
+      {
+        "name": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/index.rss",
+        "enabled": true,
+        "category": "search-ppc"
+      },
+      {
+        "name": "PPC Hero",
+        "url": "https://feeds.feedburner.com/PpcHero",
+        "enabled": true,
+        "category": "search-ppc"
+      },
       {
         "name": "Digiday",
         "url": "https://digiday.com/feed/",
         "enabled": true,
-        "category": "media-marketing"
+        "category": "marketing"
       },
       {
         "name": "Marketing Dive",
@@ -35,34 +89,10 @@
         "category": "marketing"
       },
       {
-        "name": "PPC Hero",
-        "url": "https://feeds.feedburner.com/PpcHero",
-        "enabled": true,
-        "category": "ppc"
-      },
-      {
-        "name": "Search Engine Journal",
-        "url": "https://www.searchenginejournal.com/feed/",
-        "enabled": true,
-        "category": "search-seo"
-      },
-      {
-        "name": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/index.rss",
-        "enabled": true,
-        "category": "search-seo"
-      },
-      {
         "name": "Social Media Today",
         "url": "https://www.socialmediatoday.com/feeds/news/",
         "enabled": true,
         "category": "social"
-      },
-      {
-        "name": "Simon Willison (AI)",
-        "url": "https://simonwillison.net/atom/everything/",
-        "enabled": true,
-        "category": "ai-tools"
       }
     ],
     "reddit": {
@@ -79,11 +109,15 @@
   "filtering": {
     "ai_score_threshold": 6.0,
     "time_window_hours": 24,
-    "max_items": 25,
+    "max_items": 22,
     "category_groups": {
-      "ai": {
-        "limit": 6,
-        "categories": ["ai-tools", "ai-news", "machine-learning"]
+      "platform": {
+        "limit": 12,
+        "categories": ["ad-platform", "programmatic", "search-ppc"]
+      },
+      "industry": {
+        "limit": 8,
+        "categories": ["marketing", "social"]
       }
     }
   },
