@@ -5,153 +5,79 @@ date: 2026-08-29
 lang: zh
 ---
 
-> 从 45 条内容中筛选出 12 条重要资讯。
+> 从 11 条内容中筛选出 5 条重要资讯。
 
 ---
 
-1. [The Trade Desk gains show-level CTV data in Gracenote's first DSP deal - PPC Land](#item-1) ⭐️ 9.0/10
-2. [Trade Desk Unveils Kokai Zuma With New Agentic AI Capabilities - TradingView](#item-2) ⭐️ 9.0/10
-3. [The Trade Desk Rolls Out Kokai Zuma, Betting Agentic AI Will Cut Campaign Costs - finance.biggo.com](#item-3) ⭐️ 9.0/10
-4. [The Trade Desk Adds Agentic AI And Simplified Measurement To Kokai Platform With Zuma Release - SMBtech](#item-4) ⭐️ 9.0/10
-5. [The Trade Desk stock steadies as new Kokai Zuma AI tools aim to rebuild confidence - Ad-hoc-news.de](#item-5) ⭐️ 9.0/10
-6. [The Trade Desk adds AI and measurement updates to Kokai - Media in Canada](#item-6) ⭐️ 9.0/10
-7. [Google Ads Book Buttons Expand To Search & Performance Max - Search Engine Roundtable](#item-7) ⭐️ 8.0/10
-8. [Retail Roundup: Home Depot Finally Hires a Retail Media Leader, and More Ads Are Coming to Shopping Malls - ADWEEK](#item-8) ⭐️ 8.0/10
-9. [Gracenote and The Trade Desk sharpen CTV targeting - marketingreport.one](#item-9) ⭐️ 8.0/10
-10. [Can Gracenote's Integration Give TTD an Edge in CTV Advertising? - TradingView](#item-10) ⭐️ 8.0/10
-11. [How Jysk used the ABCDs of YouTube to sell ‘boring’ products - Google Business Profile](#item-11) ⭐️ 7.0/10
-12. [Mall Operator Simon Forms A Retail Media Network 08/28/2026 - MediaPost](#item-12) ⭐️ 7.0/10
+1. [谷歌 DV360 平台将进行重大改革，2026 年 8 月前推出 12 项更新](#item-1) ⭐️ 9.0/10
+2. [Google cuts two DV360 brand safety exclusion controls on October 1 - PPC Land](#item-2) ⭐️ 9.0/10
+3. [The Trade Desk forges metadata pact with Nielsen’s Gracenote - TheDesk.net](#item-3) ⭐️ 8.0/10
+4. [The Trade Desk stock steadies as AI-driven CTV growth reshapes its outlook - AD HOC NEWS](#item-4) ⭐️ 8.0/10
+5. [Amazon Ads Back-To-School Takeover Spans Digital To Physical 08/31/2026 - MediaPost](#item-5) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [The Trade Desk gains show-level CTV data in Gracenote's first DSP deal - PPC Land](https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3h6OGd5d2RXdG1tZ1pscnI4SmNua0lLLVc4bmFWSXg0Mng2ZzV3SWNHcF9WdWFma0hCX3J2aHZDVWRMZHFwOG5WdHdCc2RKWnl2bFJMeDNDV05wdjFSaW83ekVmN0Q2NTBJUmNvX2c4T3FXQWdpbWxZWC04UTVGZmxsbXE1N1cyZ1dKZmtJMWU?oc=5) ⭐️ 9.0/10
+## [谷歌 DV360 平台将进行重大改革，2026 年 8 月前推出 12 项更新](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUc5NlpJLWpMaTlzd1JHWlVxcUtpMkY1UG9DRFFlVEdIN2ZNbTZQMk5UUFpKNDR2ZHNNT0FKWVVJTFYwSEpSa2ZFcDFJTEZEcDV5cHVydkxOdmNuVkV0ZW9oTF8wR25uVGl3N1ppd3lJVEFzcVZTeDliQmVwMDNCWkVPcWQ?oc=5) ⭐️ 9.0/10
 
-The Trade Desk has partnered with Gracenote to integrate show-level CTV data, enhancing targeting and measurement capabilities for advertisers on the DSP.
+谷歌正在对其 Display & Video 360 (DV360) 平台实施 12 项重大改革，预计到 2026 年 8 月将完成全面升级。 这次改革对程序化广告领域意义重大，将直接影响广告代理商和品牌规划、购买和优化其媒体策略的方式，并可能重塑数字广告格局。 此次更新涉及 DV360 平台的 12 项具体变化，表明这是一次全面的转型而非小幅调整，并明确了在 2026 年 8 月前完成全面实施的截止日期。
 
-rss · Google News — Programmatic · 8月28日 14:57
+rss · Google News — Programmatic · 8月29日 02:45
 
-**标签**: `#The Trade Desk`, `#CTV`, `#Programmatic`, `#Data`, `#Media Buying`
+**背景**: Display & Video 360 (DV360) 是谷歌的企业级需求方平台 (DSP)，用于程序化广告，旨在通过整合媒体、创意和分析，帮助广告商规划、购买、优化和衡量全渠道媒体策略。程序化广告本身是一种自动化流程，利用人工智能洞察力买卖数字广告空间，从而高效地将品牌与相关受众连接起来。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.adgility.com.au/display-video">Display & Video</a></li>
+<li><a href="https://business.adobe.com/blog/basics/programmatic-advertising-made-simple">What is programmatic advertising?</a></li>
+
+</ul>
+</details>
+
+**标签**: `#DV360`, `#Google Ads`, `#Programmatic Advertising`, `#Ad Platform Updates`, `#Media Buying`
 
 ---
 
 <a id="item-2"></a>
-## [Trade Desk Unveils Kokai Zuma With New Agentic AI Capabilities - TradingView](https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUlRc21kTjNWUGc1dm5XTG5wRVBWelVHNTZOY0w0ZVBIaTloWjVmVnVsOUJJdzdMU3lRU0xRb01ya0s2eF9VMldqZXkxN0Z6NzNIWE4weEREMDN3VWNUeWQ5Y0RFajQ0NlFoUHBoaUs5bENMbUhmdVRNbFlwYUgwWGxGSWFEX1dwYV9rYjFXdjFidHc5QVVrb2JXYmFDb3JGRnVQM245c0lsNl9jTUZDRFlmUERXc1pXQlE?oc=5) ⭐️ 9.0/10
+## [Google cuts two DV360 brand safety exclusion controls on October 1 - PPC Land](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaTliZVZTaFRFeWpZMGhYS1JCRTF2aF9BODdidzRnMHN4YnVQekZKemp5S19kYVBiSmNIWjVaNkc2NUpqcjZGWjdEczFsZTJNNUhpLW1HdzlLQk1vdUxMU0JQcnI2MmdEeUVJQ0xnOVVzRkgwUmxoeXZiVjhSbWF4RmFQN1h5SHh6QVNVdw?oc=5) ⭐️ 9.0/10
 
-The Trade Desk has unveiled Kokai Zuma, integrating new agentic AI capabilities to enhance programmatic media buying and optimization.
+Google is discontinuing two brand safety exclusion controls within DV360 starting October 1, which will affect advertisers' ability to manage content suitability.
 
-rss · Google News — Programmatic · 8月28日 15:48
+rss · Google News — Programmatic · 8月29日 08:02
 
-**标签**: `#The Trade Desk`, `#Programmatic Advertising`, `#AI in Advertising`, `#Media Buying`, `#AdTech`
+**标签**: `#DV360`, `#Programmatic`, `#Brand Safety`, `#Media Buying`, `#Google Ads`
 
 ---
 
 <a id="item-3"></a>
-## [The Trade Desk Rolls Out Kokai Zuma, Betting Agentic AI Will Cut Campaign Costs - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE0zdDcwY1ZOX0J6cnRTeUs5b3VWcEo3eDlFSU8zSnFNQ0dUZzRlOGtlR1AxRWVSaTR5MHdJZHJHeVVIckJZeDN2cUtjc2xIV1VmQ1NIT2hvSndtUHY2dGIxTEZwWHpPdjV6bTFXZGVVZFNVZkpkdGc?oc=5) ⭐️ 9.0/10
+## [The Trade Desk forges metadata pact with Nielsen’s Gracenote - TheDesk.net](https://news.google.com/rss/articles/CBMibkFVX3lxTE5WSHRoRjM4S1c4RHdiOWJaMS1IS29idU05bnktVnBrdlZtSTFEVzhGS1JZM3U5NGJ1NEZ6WVhIZDRSWVRQN2VxZDhnaWowMWduakZ4cHlCZjFnbXVJVkM5NUk2QnZWYWs1QW9tVWhn?oc=5) ⭐️ 8.0/10
 
-The Trade Desk has rolled out Kokai Zuma, an agentic AI solution designed to optimize programmatic ad campaigns and reduce costs for advertisers.
+The Trade Desk has formed a partnership with Nielsen's Gracenote to integrate content metadata, which is expected to improve programmatic targeting and measurement for CTV advertising.
 
-rss · Google News — Programmatic · 8月28日 07:35
+rss · Google News — Programmatic · 8月29日 14:00
 
-**标签**: `#Programmatic Advertising`, `#The Trade Desk`, `#AI in Advertising`, `#Campaign Optimization`, `#AdTech`
+**标签**: `#The Trade Desk`, `#Programmatic`, `#CTV`, `#Adtech`, `#Measurement`
 
 ---
 
 <a id="item-4"></a>
-## [The Trade Desk Adds Agentic AI And Simplified Measurement To Kokai Platform With Zuma Release - SMBtech](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDNXUWZVUkVDMWV2dUEtZG1XYmw0MURYQ1FGc085bUNIV242bU9HTlY4QWJLSUVoa2hMRURuSHQzQUQ0TktGWXpaZkkyYUp2amhrMjRRNmcwaXU0Z29mNmhDWWlfUjFqNExITE5nbnZUdWJoS2xHclBVZXBvV0ZyWnlqQVU3S1RETkFuMExxV19VNVFuNnV3RzZCdVV4OWJDLUIzVEVZeWJOalZlaFhWR3BBcHhKT3JjYWc?oc=5) ⭐️ 9.0/10
+## [The Trade Desk stock steadies as AI-driven CTV growth reshapes its outlook - AD HOC NEWS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQblg4Q3VzNTFMMi01RTIyS0hEbjNiZW5kLU5ORzFoOXREdmJfWE5zcWU3WnZwSENucXQ1U0pSMFAzR3hieG5wVmRuZHlZVU1KYkFOcS11cm9fZlE3Y3EyX1JVZWp2ZUk5ZVl2Y05tZ2R4c0VKTFJBUU53bGFnYXJxZnBoS2JyYkk0MXZBenVrYVhRaDJPVmhDTnctWnJVMkZESTFMamgxLWFsb3JGYkFWNXd1VG04bXhCb1BHSWY2Q2Q3MTlUdnlPMUJ3X0d1MC1xTzdF?oc=5) ⭐️ 8.0/10
 
-The Trade Desk's Zuma release for its Kokai platform introduces agentic AI capabilities for campaign optimization and simplified measurement tools, enhancing programmatic advertising efficiency.
+The Trade Desk's stock outlook is stabilizing due to significant growth in AI-driven Connected TV (CTV) advertising, indicating strategic shifts in programmatic media buying.
 
-rss · Google News — Programmatic · 8月28日 12:26
+rss · Google News — Programmatic · 8月29日 11:43
 
-**标签**: `#The Trade Desk`, `#Programmatic Advertising`, `#AI in Advertising`, `#Measurement`, `#DSP`
+**标签**: `#The Trade Desk`, `#Programmatic`, `#CTV`, `#AI in Advertising`, `#Media Buying`
 
 ---
 
 <a id="item-5"></a>
-## [The Trade Desk stock steadies as new Kokai Zuma AI tools aim to rebuild confidence - Ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxOcHlWMU1ac2RXTldCVlBmSUtRck5aSzVPanhKbmoxQzQyMVpJb0pyT1lubncwSTRLZDNmTkNPdnpWVElfNTM1SWd2T2ZEd0NyZHFyblRBY2JnU2tWYzhGSXhBNk5ZWlFMekpHSHc2RThNRFp1YlBzY2Q5SzI4d0FHRFA3YTRRd2ZxTVZWNnlucEFGcThEbjVmcEJzNmNhZUNGbktHcHdBN3NzMDdyZ1V6NkxEOXJoSHMzQ1cydi1LNFNwbjBHbG1LbDl3RXlEQUU?oc=5) ⭐️ 9.0/10
+## [Amazon Ads Back-To-School Takeover Spans Digital To Physical 08/31/2026 - MediaPost](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONDhTWWl0LUM0ZGlnLWNSdE41SjBoY3NUbkxlMXlYenV3UW8yVXVxTWV5R2FSZ1cwbFBFdkZ3MDFpNXZqaWF0SmpGMFlEU3pMZDdjRDFxRFo0cEN5Qk9HWHZ4WWd2VHVNRGlnaWd6TXNNU2d5clVxVFYtZmdzYmtGSVJ2amZDa1lUak1vNS05NE04YkxOZzJ2MUdqMUNpLTBoQUFlWUNCaUIzYm5tbFBpZlFINDJ6dnNHVXRUY3pNdGNrQQ?oc=5) ⭐️ 7.0/10
 
-The Trade Desk's stock stabilized following the introduction of new Kokai Zuma AI tools, which are designed to enhance the platform's capabilities and restore investor confidence.
+The article describes an Amazon Ads back-to-school campaign that integrates digital and physical advertising strategies for a major retail season.
 
-rss · Google News — Programmatic · 8月28日 20:11
+rss · Google News — Native & CTV · 8月28日 23:46
 
-**标签**: `#The Trade Desk`, `#Programmatic Advertising`, `#AI in Advertising`, `#DSP`, `#Ad Tech`
-
----
-
-<a id="item-6"></a>
-## [The Trade Desk adds AI and measurement updates to Kokai - Media in Canada](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUDU5dEJqQm8wM0d6NDNVSHJWNGpxaHl3MHZRMkNWQ3dSSV93UmxERWhYOHdXeGthbElnYjZEYVVHZGp3dkhCN2R5UHB5bE1xN1k0OE1nRXRLbVhBb1htUkQ2cENsMV93MEF0LTRMaFJPQ21FRXhzMldMZnhuWC1XUTFHblQ1Vm9sM3BMQXRlT1JzVUtEZXVoSA?oc=5) ⭐️ 9.0/10
-
-The Trade Desk has integrated new AI and measurement capabilities into its Kokai platform, enhancing programmatic ad buying and performance tracking.
-
-rss · Google News — Programmatic · 8月28日 13:36
-
-**标签**: `#The Trade Desk`, `#Programmatic Advertising`, `#AI in Advertising`, `#Ad Measurement`, `#DSP`
-
----
-
-<a id="item-7"></a>
-## [Google Ads Book Buttons Expand To Search & Performance Max - Search Engine Roundtable](https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZW5CUmFjMEhsMV9MV1Rmd0JhZTdCVFQ1ei03czc3dVBrMlkxRjhza05PMzJqZWg5WGJXeEhaMHROZGtLYkQtYkg4Y21SWXJXdkg3MW5aRDZ1dDh2QU5jdmtoV0VtbEoxcGw5QXpiS0Q?oc=5) ⭐️ 8.0/10
-
-Google Ads is expanding its 'Book Buttons' feature, allowing advertisers to include direct booking calls-to-action within Search and Performance Max campaigns.
-
-rss · Google News — Ad Platforms · 8月28日 11:51
-
-**标签**: `#Google Ads`, `#Performance Max`, `#Search Ads`, `#Ad Features`, `#Media Buying`
-
----
-
-<a id="item-8"></a>
-## [Retail Roundup: Home Depot Finally Hires a Retail Media Leader, and More Ads Are Coming to Shopping Malls - ADWEEK](https://news.google.com/rss/articles/CBMixwFBVV95cUxNb1ctN2dKcU1Ccl9yOXNiUDJwajV2N01KMktsTWZUZmFtTHZMWFFUSDZJblpvOFR3ajhTQ3NsWFVrT1pfMFNTWnBsak5KZl8wcmJESmZ4Ymd3bVhXa2ZVUXFGWFdsWlFLNFpsWHFsb21CbnkyV0pGOC05ZnNJWWU2V3c5SkVNZU14VkI2cXl2aEsxTVNWSWtvU19OVXFxSEU0TWNGTHpxWWp1V0dsOTNVQjk3VHZfT1Y2S29FODJEbjh3TVE3azRz?oc=5) ⭐️ 8.0/10
-
-Home Depot's hiring of a retail media leader and the increasing presence of ads in shopping malls signal significant growth and strategic investment in retail media and OOH advertising.
-
-rss · Google News — Programmatic · 8月28日 10:00
-
-**标签**: `#Retail Media`, `#OOH`, `#Retail`, `#Advertising Trends`, `#Media Strategy`
-
----
-
-<a id="item-9"></a>
-## [Gracenote and The Trade Desk sharpen CTV targeting - marketingreport.one](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYV8zOC13ZkxtdWJicVluWUxERUphd2cwbkZ6OXl4VnRySnlpVDlKbGdlbVNHdUc1V2ptMllTWGtRNzVsQ2ZpRWlEdThzYzRQcm9YTGhBYlYxRHZMSXJpZmR4REFnY3JJYVBIYnlrWXV2cFhZQVcyUVh4TldTUWxkVy1lMnkwRUk0WWUtaE9yQUNtUQ?oc=5) ⭐️ 8.0/10
-
-Gracenote and The Trade Desk are collaborating to enhance Connected TV (CTV) ad targeting capabilities, offering more precise audience reach for advertisers.
-
-rss · Google News — Programmatic · 8月28日 08:40
-
-**标签**: `#The Trade Desk`, `#CTV`, `#Programmatic Advertising`, `#Ad Targeting`, `#Media Buying`
-
----
-
-<a id="item-10"></a>
-## [Can Gracenote's Integration Give TTD an Edge in CTV Advertising? - TradingView](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmVUbHVrWWEydEY1UFo1Z1RXQThBanhQb25IeVpCQ3pxZVpmTFB5NURqVWExWnBpVGJKNU5FQm9hendMUU50TkJnazdUcW53NVlXV21meEdDWEJkcVIxS25lajBNRWlLWkF6Z0lJbzNjamdJVkZQdDVxQmNvYmhVeGNMQnZ1TGdVOXVNcm51bnZzWmZKeHh4bllreDRUR0dwZkRpS1BUd0tmWG9OemNaZjM2bVRDaDVhcXNJ?oc=5) ⭐️ 8.0/10
-
-The article explores how Gracenote's integration with The Trade Desk could provide an advantage in CTV advertising by enhancing targeting and measurement capabilities.
-
-rss · Google News — Programmatic · 8月28日 14:18
-
-**标签**: `#The Trade Desk`, `#CTV`, `#Programmatic Advertising`, `#AdTech`, `#Media Buying`
-
----
-
-<a id="item-11"></a>
-## [How Jysk used the ABCDs of YouTube to sell ‘boring’ products - Google Business Profile](https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmxMbXVGd0laNU5JUWRIbXA4UGpXX1NiRU5kRDI4QmRPTl9qblQzQ0c5Ty0wS1R2cmVOM2VHQVdHOV9QbW80N1NaNUd5TnNHT2xPWVdtRWNUWlBVdmJGU1hWZHBBUnkyVnowTDVwUFRVamJlUTRyYWZESERtY21rUjNUaw?oc=5) ⭐️ 7.0/10
-
-A Google case study details how retailer Jysk successfully leveraged the 'ABCDs of YouTube' framework to create engaging video ads and drive sales for its products.
-
-rss · Google News — Ad Platforms · 8月28日 03:43
-
-**标签**: `#YouTube Ads`, `#Retail Media`, `#Video Strategy`, `#Case Study`, `#Google Ads`
-
----
-
-<a id="item-12"></a>
-## [Mall Operator Simon Forms A Retail Media Network 08/28/2026 - MediaPost](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUZQR1lIUUs5dEZUYUJlcXpMY0VMdHNLVmpDczdaUWZOb1hlT2VTOVVjLWFlV3R3blJsM1FxLXFhampfVWZhc2FJQW1BVjk4RVVEV3JUZEZrRTRKdXRHR0hNY2ZkaHdEWUZmUWdtMmJFN2hTTU9RcTlrWE9iSUNwaktBWk1md3k0YmRmVzdQQ0NSODFPa0xhbThtX3lERXdMUE5SWVFLcnd5cWVWd2F1NDFkeXBxeUtlX2FIVHRLUQ?oc=5) ⭐️ 7.0/10
-
-Mall operator Simon is launching a retail media network, expanding the landscape for advertisers seeking to reach consumers at the point of sale.
-
-rss · Google News — Programmatic · 8月28日 16:22
-
-**标签**: `#Retail Media`, `#Media Buying`, `#Programmatic`, `#Retail Clients`, `#Ad Networks`
+**标签**: `#Amazon Ads`, `#Retail Media`, `#Seasonal Campaigns`, `#Integrated Marketing`, `#Media Strategy`
 
 ---
